@@ -1,0 +1,70 @@
+body {
+	background-color: #81D8D0;
+}
+
+#container {
+	width: 1080px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #DDDDDD;
+}
+
+#top-bar {
+	height: 145px;
+	background-image: url(images/Top-Bar.png);
+	background-repeat: no-repeat;
+	text-align: center;
+	padding-top: 30px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#follower-count{
+	height: 355px;
+	background-image: url(images/follower-count.png);
+}
+
+#profile-picture{
+	border-radius: 50%;
+	width: 255px;
+	height: 255px;
+	margin-top: 53px;
+	margin-left: 58px;
+}
+
+#photo-bar {
+	height: 140px;
+	background-image: url(images/Photo-Bar.png);
+}
+
+.ig-image {
+	width: 33%;
+	height: 350px;
+	display: inline;
+	padding: 0.48437498px;
+	margin: center;
+}
+
+#bottom-bar {
+	height: 135px;
+	background-image: url(images/Bottom-Bar.png);
+}
+
+#bio {
+	font-size: 25px;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+.ig-image:hover {
+	width: 55%;
+	height: 100%;
+}
+
+#counts {
+	font-size: 65px;
+	float: right;
+	margin-right: 71px
+
+}
