@@ -19,6 +19,7 @@ body {
 	text-align: center;
 	padding-top: 30px;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 132%;
 }
 
 #follower-count{
@@ -44,7 +45,6 @@ body {
 	height: 350px;
 	display: inline;
 	padding: 0.48437498px;
-	margin: center;
 }
 
 #bottom-bar {
@@ -55,6 +55,7 @@ body {
 #bio {
 	font-size: 25px;
 	font-family: Tahoma, Geneva, sans-serif;
+	margin: auto;
 }
 
 .ig-image:hover {
@@ -66,5 +67,4 @@ body {
 	font-size: 65px;
 	float: right;
 	margin-right: 71px
-
 }
